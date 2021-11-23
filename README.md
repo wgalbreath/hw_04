@@ -35,10 +35,11 @@ valid_comments= 510
 My score should be 32/30.
 Tasks I completed:
 <ul>
-  <li> Each task in `bot.py` is worth 3 points. (6 tasks * 3 points/task = 18 points) +18 </li>
-  <li> The github repo is worth 2 points. +2 </li>
-  <li> Getting at least 100 valid comments posted. +2 </li>
-  <li> Getting at least 500 valid comments posted. +2 </li>
+  <li> 1. Each task in `bot.py` is worth 3 points. (6 tasks * 3 points/task = 18 points) +18 </li>
+  <li> 2. The github repo is worth 2 points. +2 </li>
+  <br>
+  <li> 1. Getting at least 100 valid comments posted. +2 </li>
+  <li> 2. Getting at least 500 valid comments posted. +2 </li>
   <li> 4. Make your bot create new submission posts instead of just new comments. +2 </li>
   <li> 6. Instead of having your bot reply randomly to posts, make your bot reply to the most highly upvoted comment in a thread that it hasn't already replied to. +2 </li>
   <li> 7. upvote any comment or submission using TextBlob +4 </li>
