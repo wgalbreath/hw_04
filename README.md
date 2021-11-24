@@ -29,6 +29,10 @@ len(valid_replies)= 146
 valid_comments= 510
 ========================================
 ```
+Plus, here is a screenshot of it:
+<br>
+![Screen Shot 2021-11-23 at 4 58 50 PM](https://user-images.githubusercontent.com/67754864/143169550-c99c7d4b-647d-4630-9985-9881b74d2d0a.png)
+
 
 <b> d) Explains what you believe your score should be. Clearly state which tasks you complete/don't complete. </b>
 <br> 
