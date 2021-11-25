@@ -47,6 +47,10 @@ Tasks I completed:
   <li> 4. Make your bot create new submission posts instead of just new comments. +2 </li>
   <li> 6. Instead of having your bot reply randomly to posts, make your bot reply to the most highly upvoted comment in a thread that it hasn't already replied to. +2 </li>
   <li> 7. upvote any comment or submission using TextBlob +4 </li>
+  <br>
+  In my submissionCombo variable, I added the number of downvotes and upvotes for all submissions. I had over 100 votes on submissions. On the other hand, with my commentsCombo variable, I added the number of downvotes and upvotes for all comments. I reached over 500 votes on comments.
+  <br>
+  <br>
   <br> Grand total = 32/30
 
 
