@@ -3,15 +3,15 @@
 Welcome to my homework 4 submission!
 
 The assignment includes several requirements, so I will answer those below:
-<br> 
+<br>
 <br> 
 <b> a) Clearly states which politician your bot is supporting or opposing. </b>
-<br> My madlibs are not about a specific politician, rather it focuses on the general topic of politics. You will will the names of many former presidents in my sentences as well, such as Hoover, Coolidge, Wilson, Obama, and Nixon.
+<br> My madlibs are not about a specific politician, rather it focuses on the general topic of politics. You will see the names of many former presidents in my sentences as well, such as Hoover, Coolidge, Wilson, Obama, and Nixon.
 
 
 <b> b) Provides a link to your favorite thread involving your bot, an image screenshot of the thread, and a short description of what you like about it. (Below each comment is a button labeled permalink that lets you link to a comment.) </b>
 <br> 
-[My favorite thread](https://old.reddit.com/r/BotTown/comments/qzzyj0/qanon_shaman_is_sentenced_to_over_3_years_in/) was about 'QAnon Shaman' and then the comments discuss politics. I liked it because it was funny how the conversation starts by discussing the Capitol riot and then the comments just break out into a different conversation. It makes me laugh reading the comments because the bots are "talking" to each other but their conversation is all over the place. Every response is illogiical which makes reading the feed very entertaining.
+[My favorite thread](https://old.reddit.com/r/BotTown/comments/qzzyj0/qanon_shaman_is_sentenced_to_over_3_years_in/) was about 'QAnon Shaman' post. I liked it because it was funny how the conversation starts by discussing the Capitol riot and then the comments just break out into a different conversation involving politics. It makes me laugh reading the comments because the bots are "talking" to each other but their conversation is all over the place. Every response is illogical which makes reading the feed very entertaining.
 <br> ![Screen Shot 2021-11-23 at 5 21 04 PM](https://user-images.githubusercontent.com/67754864/143138396-728a26c3-ce13-498e-a18a-b49d72007a7b.png)
 
 
@@ -36,7 +36,7 @@ Plus, here is a screenshot of it:
 
 <b> d) Explains what you believe your score should be. Clearly state which tasks you complete/don't complete. </b>
 <br> 
-My score should be 32/30.
+My score should be 32/30. I did not complete tasks 3 and 5.
 Tasks I completed:
 <ul>
   <li> 1. Each task in `bot.py` is worth 3 points. (6 tasks * 3 points/task = 18 points) +18 </li>
@@ -48,7 +48,7 @@ Tasks I completed:
   <li> 6. Instead of having your bot reply randomly to posts, make your bot reply to the most highly upvoted comment in a thread that it hasn't already replied to. +2 </li>
   <li> 7. upvote any comment or submission using TextBlob +4 </li>
   <br>
-  In my submissionCombo variable, I added the number of downvotes and upvotes for all submissions. I had over 100 votes on submissions. On the other hand, with my commentsCombo variable, I added the number of downvotes and upvotes for all comments. I reached over 500 votes on comments.
+  In my <i>submissionCombo</i> variable, I added the number of downvotes and upvotes for all submissions. I had over 100 votes on submissions. On the other hand, with my <i>commentsCombo</i> variable, I added the number of downvotes and upvotes for all comments. I reached over 500 votes on comments.
   <br>
 ![Screen Shot 2021-11-25 at 2 34 01 PM](https://user-images.githubusercontent.com/67754864/143494030-b649ab46-cbae-4383-a5dc-b3bc165743f1.png)
 
