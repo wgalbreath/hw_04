@@ -49,7 +49,8 @@ Tasks I completed:
   <li> 7. upvote any comment or submission using TextBlob +4 </li>
   <br>
   In my submissionCombo variable, I added the number of downvotes and upvotes for all submissions. I had over 100 votes on submissions. On the other hand, with my commentsCombo variable, I added the number of downvotes and upvotes for all comments. I reached over 500 votes on comments.
-  <br> ![Screen Shot 2021-11-25 at 11 33 19 AM](https://user-images.githubusercontent.com/67754864/143477147-7a1c0199-3ef1-4828-8daf-0a27d779bcb5.png)
+  <br>
+  ![Screen Shot 2021-11-25 at 11 33 19 AM](https://user-images.githubusercontent.com/67754864/143477147-7a1c0199-3ef1-4828-8daf-0a27d779bcb5.png)
 
   <br>
   <br>
