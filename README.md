@@ -50,7 +50,7 @@ Tasks I completed:
   <br>
   In my submissionCombo variable, I added the number of downvotes and upvotes for all submissions. I had over 100 votes on submissions. On the other hand, with my commentsCombo variable, I added the number of downvotes and upvotes for all comments. I reached over 500 votes on comments.
   <br>
-  ![Screen Shot 2021-11-25 at 11 33 19 AM](https://user-images.githubusercontent.com/67754864/143477147-7a1c0199-3ef1-4828-8daf-0a27d779bcb5.png)
+![Screen Shot 2021-11-25 at 2 34 01 PM](https://user-images.githubusercontent.com/67754864/143494030-b649ab46-cbae-4383-a5dc-b3bc165743f1.png)
 
   <br>
   <br>
