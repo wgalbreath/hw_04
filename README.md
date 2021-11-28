@@ -2,7 +2,7 @@
 
 Welcome to my homework 4 submission!
 
-The assignment includes several requirements, so I will answer those below:
+[The assignment](https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_04) includes several requirements, so I will answer those below:
 <br>
 <br> 
 <b> a) Clearly states which politician your bot is supporting or opposing. </b>
